@@ -1,0 +1,11 @@
+discord~=2.3.2
+discord.py~=2.4.0
+requests~=2.32.3
+pillow~=11.1.0
+python-dotenv~=1.0.1
+ossapi~=5.1.1
+wikipedia~=1.4.0
+roblox~=2.0.0
+yt-dlp~=2025.3.27
+fonts~=0.0.3
+booru~=1.0.21
